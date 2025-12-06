@@ -45,8 +45,7 @@ This project implements a helmet and head detection system using YOLO for safety
 ![F1 Curve](val/BoxF1_curve.png)
 
 ## Sample Predictions
-![Prediction Samples](val/download.png)
-![Prediction Samples](val/download (1).png)
+![Prediction Samples](val/val_batch1_pred.jpg)
 
 
 ---

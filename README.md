@@ -27,25 +27,27 @@ This project implements a helmet and head detection system using YOLO for safety
 # RESULTS
 
 ## Normalized Confusion Matrix
-![Normalized Confusion Matrix](IMAGES/confusion_matrix_normalized.png)
+![Normalized Confusion Matrix](val/confusion_matrix_normalized.png)
 
 ## Raw Confusion Matrix
-![Raw Confusion Matrix](IMAGES/confusion_matrix_raw.png)
+![Raw Confusion Matrix](val/confusion_matrix.png)
 
 ## Precision-Recall Curve
-![PR Curve](IMAGES/pr_curve.png)
+![PR Curve](val/BoxPR_curve.png)
 
 ## Recall Curve
-![Recall Curve](IMAGES/recall_curve.png)
+![Recall Curve](val/BoxR_curve.png)
 
 ## Precision Curve
-![Precision Curve](IMAGES/precision_curve.png)
+![Precision Curve](val/BoxP_curve.png)
 
 ## F1 Score Curve
-![F1 Curve](IMAGES/f1_curve.png)
+![F1 Curve](val/BoxF1_curve.png)
 
 ## Sample Predictions
-![Prediction Samples](IMAGES/predictions.png)
+![Prediction Samples](val/download.png)
+![Prediction Samples](val/download(1).png)
+
 
 ---
 

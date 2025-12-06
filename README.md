@@ -4,9 +4,6 @@ This project implements a helmet and head detection system using YOLO for safety
 
 ## Objectives
 - Detect helmet vs bare head (no helmet)
-- Reduce manual site monitoring
-- Demonstrate a complete computer vision workflow
-- Provide visual analytics and model performance metrics
 
 ## Dataset
 - Two object classes:
@@ -64,11 +61,3 @@ This project implements a helmet and head detection system using YOLO for safety
 - PPE safety compliance systems
 - Industrial workplace surveillance
 - Automated alerting and analytics for bare-head detection
-
-# Future Improvements
-- Larger and more diverse dataset
-- Higher resolution for small object detection
-- Live webcam or CCTV deployment
-- Edge device integration (Jetson, Raspberry Pi)
-- Automatic alerts and reporting
-
